@@ -1,0 +1,7 @@
+.divMemoria {
+  background-color: aqua;
+  display: grid;
+  grid-template-columns: repeat(6, 80px);
+  gap: var(--var-gap-m);
+  justify-content: center;
+}

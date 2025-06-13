@@ -1,0 +1,8 @@
+.boton_navegador {
+  width: 125px;
+  height: 35px;
+  border-radius: 15px;
+  border: none;
+  background-color: rgb(126, 238, 238);
+  color: black;
+}

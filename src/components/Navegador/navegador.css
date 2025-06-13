@@ -1,0 +1,8 @@
+.navegador {
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: red;
+  height: 10svh;
+}

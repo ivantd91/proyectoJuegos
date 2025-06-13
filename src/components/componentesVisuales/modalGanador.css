@@ -1,0 +1,34 @@
+.fondoModal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modalGanador {
+  background: white;
+  padding: 2rem;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 0 20px black;
+  max-width: 300px;
+}
+
+.btnReiniciar {
+  margin-top: 15px;
+  padding: 0.5rem 1rem;
+  background-color: #ffcc00;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btnReiniciar:hover {
+  background-color: #f39d3b;
+}
