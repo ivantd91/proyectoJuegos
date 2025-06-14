@@ -13,7 +13,7 @@ export function crearCarta(pokemon, girarCarta) {
 
   const caraTraseraCarta = document.createElement('div')
   caraTraseraCarta.className = 'caraTraseraCarta'
-  caraTraseraCarta.textContent = '🦮'
+  caraTraseraCarta.textContent = '🦍'
 
   carta.appendChild(caraPrincipalCarta)
   carta.appendChild(caraTraseraCarta)
